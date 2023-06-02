@@ -1,5 +1,5 @@
 # ATQ-Sales-Insight-Dashboard
-Sales Analysis Report created for ATQ, a hardware manufacturer company, to have a better understanding of the performance of the business
+Sales Analysis Report created using Power BI and SQL for ATQ, a hardware manufacturer company, to have a better understanding of the performance of the business
 
 *This project has been developed with the help Sales insight Dashboard series from codebasics youtube channel*
 
