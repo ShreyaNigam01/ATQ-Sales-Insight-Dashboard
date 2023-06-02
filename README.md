@@ -7,7 +7,7 @@ Sales Analysis Report created for ATQ, a hardware manufacturer company, to have 
 
 AtliQ Hardware is a company that sells computer hardware and peripheral products to clients across multiple branches in India. The sales director is experiencing challenges in understanding the company's performance and identifying current issues as sales are declining. When the director contacts regional managers for updates on sales and the market, they struggle to comprehend the information presented in Excel files. This lack of comfort with numbers causes frustration for both the sales director and regional managers.
 
-Problem Approach
+**Problem Approach**
 
 Sales director of the ATQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
@@ -20,7 +20,7 @@ Sales director of the ATQ hardware, decided to build a PowerBI Dashboard for con
 7. Created measure and columns and used them for creating visuals in PowerBI
 8. Generate insights by analyzing visualization
 
-Insights
+**Insights**
 
 
 Revenue
@@ -39,7 +39,7 @@ Product with highest profit margin is Prod 308 (0.31M) and lowest is Prod 320 (-
 Profit margin has been declining the over period of three years
 
 
-Learnings
+**Learnings**
 
 1. Learned how real business data sets look like.
 2. earned about how to write some major analysis queries in MySQL.
